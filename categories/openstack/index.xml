@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>openstack on moyasu&#39;s blog</title>
+    <link>http://localhost:1313/categories/openstack/</link>
+    <description>Recent content in openstack on moyasu&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 25 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/openstack/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>测试</title>
+      <link>http://localhost:1313/post/%E6%B5%8B%E8%AF%95/</link>
+      <pubDate>Fri, 25 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/%E6%B5%8B%E8%AF%95/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>甄选镜像过滤方案调研</title>
+      <link>http://localhost:1313/post/%E7%94%84%E9%80%89%E9%95%9C%E5%83%8F%E8%BF%87%E6%BB%A4%E6%96%B9%E6%A1%88%E8%B0%83%E7%A0%94/</link>
+      <pubDate>Fri, 25 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/%E7%94%84%E9%80%89%E9%95%9C%E5%83%8F%E8%BF%87%E6%BB%A4%E6%96%B9%E6%A1%88%E8%B0%83%E7%A0%94/</guid>
+      <description>问题背景 客户自定义一个部署好某个具体应用的镜像，然后要共享给其他客户使用。供其他客户能看到这个镜像并且可以使用它来建虚机。目前 OpenStack Glance 服务中的私</description>
+    </item>
+    
+  </channel>
+</rss>
